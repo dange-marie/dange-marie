@@ -14,6 +14,6 @@ Je suis un étudiant en deuxième année passionné par l'informatique, actuelle
 Sur ce profil, vous trouverez une variété de projets reflétant mes intérêts.
 💬 Contact
 
-N'hésitez pas à me contacter pour discuter de collaborations, de projets ou simplement pour échanger des idées. Vous pouvez me joindre via [angelodsu22@gmail.com].
+N'hésitez pas à me contacter pour discuter de collaborations, de projets ou simplement pour échanger des idées. Vous pouvez me joindre via angelodsu22@gmail.com.
 
 Je suis impatient de partager mes projets et d'apprendre avec la communauté GitHub !
