@@ -2,7 +2,7 @@
 
 Bonjour et bienvenue sur mon profil GitHub ! 👋
 
-Je suis un étudiant en deuxième année passionné par l'informatique, actuellement en quête de connaissances et d'expériences dans divers domaines technologiques. Mes principaux centres d'intérêt incluent :
+Je suis un étudiant en troisième année passionné par l'informatique, actuellement en quête de connaissances et d'expériences dans divers domaines technologiques. Mes principaux centres d'intérêt incluent :
 
     Intelligence Artificielle (IA) 🤖 : J'adore explorer les possibilités infinies de l'IA et du machine learning. De la vision par ordinateur à l'apprentissage profond, je suis toujours à la recherche de nouveaux défis à relever.
     Développement Mobile 📱 : Créer des applications mobiles intuitives et fonctionnelles est l'une de mes passions. Que ce soit avec Flutter, Android ou iOS, j'aime transformer des idées en réalités tangibles.
