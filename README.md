@@ -1,36 +1,63 @@
-🌟 Ange-Marie DOSSOU | Software Engineer & Tech Entrepreneur
-Hi there! 👋 I am a Software Engineer specializing in Artificial Intelligence, High-Performance Systems, and Mobile Development. As the Co-founder of Kisayo, I am dedicated to building scalable solutions and exploring the deep mathematical foundations of modern computing.
+<div align="center">
 
-🚀 Expertise & Core Interests
-Artificial Intelligence 🤖: Designing neural networks from scratch (NumPy) and implementing NLP models for sentiment analysis and automated data processing.
+# 🌟 Ange-Marie DOSSOU
+### **Software Engineer & Tech Entrepreneur**
+*Specializing in AI, High-Performance Systems, and Scalable Architectures*
 
-Systems & Performance (C++) ⚙️: Developing low-latency game engines (NovaEngine) using ECS architecture and C++20 standards.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelodsu22@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Project-Kisayo-blueviolet?style=for-the-badge)](https://github.com/dange-marie/Kisayo)
 
-Mobile & Backend 📱: Expert in the Flutter ecosystem and building robust, asynchronous backend architectures with Django and Celery.
+---
 
-Cybersecurity 🔒: Experience in threat detection (Phisher AI) and designing secure, documented network protocols (RFC).
+> I am dedicated to building scalable solutions and exploring the deep mathematical foundations of modern computing. As the **Co-founder of Kisayo**, I bridge the gap between low-level performance and high-level intelligence.
 
-🔭 Key Projects
-NovaR-Type: A high-performance C++20 game engine featuring a custom ECS, multithreaded physics, and a standalone map editor.
+</div>
 
-neural_network: A manual implementation of a Multi-Layer Perceptron (MLP) for analyzing chess board states (FEN) and predicting outcomes.
+### 🚀 Expertise & Core Interests
 
-Kisayo: A digital reputation platform leveraging NLP to automate customer review management and business insights.
+- **Intelligence Artificielle 🤖**
+  *Manual MLP implementation, NLP for sentiment analysis, and deep-learning research.*
+- **Systems & Performance (C++) ⚙️**
+  *High-concurrency engines, ECS architecture, and C++20 memory optimization.*
+- **Mobile & Backend 📱**
+  *Cross-platform Flutter apps and asynchronous Django/Celery backends.*
+- **Cybersecurity 🔒**
+  *Threat detection algorithms and secure network protocol design (RFC).*
 
-Student Mission: A recruitment platform featuring a technical skill validation engine and secure payment integrations.
+---
 
-🛠️ Technical Stack
-Languages: Python, C++20, Dart, SQL, C, JavaScript.
+### 🔭 Featured Projects
 
-Frameworks: Django, Flutter, SFML, Scikit-Learn, NumPy.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[NovaR-Type](https://github.com/dange-marie/NovaR-Type)** | Custom C++20 Engine with multithreaded ECS & physics. | `C++20` `SFML` `CMake` |
+| **[neural_network](https://github.com/dange-marie/neural_network)** | Multi-Layer Perceptron built from scratch for FEN analysis. | `Python` `NumPy` |
+| **[Kisayo](https://github.com/dange-marie/Kisayo)** | Reputation platform leveraging NLP for business insights. | `Django` `Flutter` `NLP` |
+| **[Student Mission](https://github.com/dange-marie/Student-Mission)** | Recruitment platform with technical validation engines. | `Dart` `PostgreSQL` |
 
-Tools: Docker, Git, CMake, PostgreSQL, Webhooks, Linux.
+---
 
-💬 Let's Connect
-I am always open to discussing system architecture, AI research, or potential collaborations.
+### 🛠️ Technical Stack
 
-Email: angelodsu22@gmail.com
+<div align="center">
 
-LinkedIn: [Your LinkedIn Link Here]
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `C++20` `Dart` `SQL` `C` `JavaScript` |
+| **Frameworks** | `Django` `Flutter` `SFML` `Scikit-Learn` `NumPy` |
+| **Infrastructure** | `Docker` `Git` `CMake` `PostgreSQL` `Webhooks` `Linux` |
 
-Current Focus: Preparing for a Master’s in AI & Cloud Computing (Targeting South Korea 🇰🇷).
+</div>
+
+---
+
+### 💬 Let's Connect
+
+- 🔭 **Current Focus:** Preparing for a Master’s in AI & Cloud Computing (Targeting **South Korea 🇰🇷**).
+- 💬 **Ask me about:** System architecture, C++ optimization, or AI math.
+- 📫 **How to reach me:** [angelodsu22@gmail.com](mailto:angelodsu22@gmail.com)
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dange-marie&show_icons=true&theme=radical" alt="Ange-Marie's GitHub stats" />
+</div>
