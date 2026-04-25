@@ -32,7 +32,7 @@
 | :--- | :--- | :--- |
 | **[NovaR-Type](https://github.com/dange-marie/NovaR_type)** | Custom C++20 Engine with multithreaded ECS & physics. | `C++20` `SFML` `CMake` |
 | **[neural_network](https://github.com/dange-marie/Neural_network)** | Multi-Layer Perceptron built from scratch for FEN analysis. | `Python` `NumPy` |
-| **[Phisher]([https://github.com/dange-marie/Kisayo](https://github.com/dange-marie/Phisher))** | Reputation platform leveraging NLP for business insights. | `Scikit Learn` `Numpy` |
+| **[Phisher](https://github.com/dange-marie/Phisher)** | Reputation platform leveraging NLP for business insights. | `Scikit Learn` `Numpy` |
 
 ---
 
@@ -55,3 +55,8 @@
 - 🔭 **Current Focus:** Preparing for a Master’s in AI & Cloud Computing (Targeting **South Korea 🇰🇷**).
 - 💬 **Ask me about:** System architecture, C++ optimization, or AI math.
 - 📫 **How to reach me:** [angelodsu22@gmail.com](mailto:angelodsu22@gmail.com)
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dange-marie&show_icons=true&theme=radical&count_private=true" alt="Ange-Marie's GitHub stats" />
+</div>
