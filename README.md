@@ -55,8 +55,3 @@
 - 🔭 **Current Focus:** Preparing for a Master’s in AI & Cloud Computing (Targeting **South Korea 🇰🇷**).
 - 💬 **Ask me about:** System architecture, C++ optimization, or AI math.
 - 📫 **How to reach me:** [angelodsu22@gmail.com](mailto:angelodsu22@gmail.com)
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dange-marie&show_icons=true&theme=radical&count_private=true" alt="Ange-Marie's GitHub stats" />
-</div>
