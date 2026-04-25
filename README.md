@@ -4,9 +4,8 @@
 ### **Software Engineer & Tech Entrepreneur**
 *Specializing in AI, High-Performance Systems, and Scalable Architectures*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ange-marie-dossou-863aa4264/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelodsu22@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Project-Kisayo-blueviolet?style=for-the-badge)](https://github.com/dange-marie/Kisayo)
 
 ---
 
