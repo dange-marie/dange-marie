@@ -1,19 +1,36 @@
-🌟 À propos de moi
+🌟 Ange-Marie DOSSOU | Software Engineer & Tech Entrepreneur
+Hi there! 👋 I am a Software Engineer specializing in Artificial Intelligence, High-Performance Systems, and Mobile Development. As the Co-founder of Kisayo, I am dedicated to building scalable solutions and exploring the deep mathematical foundations of modern computing.
 
-Bonjour et bienvenue sur mon profil GitHub ! 👋
+🚀 Expertise & Core Interests
+Artificial Intelligence 🤖: Designing neural networks from scratch (NumPy) and implementing NLP models for sentiment analysis and automated data processing.
 
-Je suis un étudiant en troisième année passionné par l'informatique, actuellement en quête de connaissances et d'expériences dans divers domaines technologiques. Mes principaux centres d'intérêt incluent :
+Systems & Performance (C++) ⚙️: Developing low-latency game engines (NovaEngine) using ECS architecture and C++20 standards.
 
-    Intelligence Artificielle (IA) 🤖 : J'adore explorer les possibilités infinies de l'IA et du machine learning. De la vision par ordinateur à l'apprentissage profond, je suis toujours à la recherche de nouveaux défis à relever.
-    Développement Mobile 📱 : Créer des applications mobiles intuitives et fonctionnelles est l'une de mes passions. Que ce soit avec Flutter, Android ou iOS, j'aime transformer des idées en réalités tangibles.
-    Gaming 🎮 : En tant que gamer passionné, je suis également intéressé par le développement de jeux. J'aime créer des expériences interactives et immersives qui captivent les joueurs.
-    Cybersécurité 🔒 : La protection des données et des systèmes est une priorité pour moi. J'aime explorer les différentes facettes de la cybersécurité pour comprendre comment rendre les systèmes plus sûrs et robustes.
+Mobile & Backend 📱: Expert in the Flutter ecosystem and building robust, asynchronous backend architectures with Django and Celery.
 
-🔭 Projets et Contributions
+Cybersecurity 🔒: Experience in threat detection (Phisher AI) and designing secure, documented network protocols (RFC).
 
-Sur ce profil, vous trouverez une variété de projets reflétant mes intérêts.
-💬 Contact
+🔭 Key Projects
+NovaR-Type: A high-performance C++20 game engine featuring a custom ECS, multithreaded physics, and a standalone map editor.
 
-N'hésitez pas à me contacter pour discuter de collaborations, de projets ou simplement pour échanger des idées. Vous pouvez me joindre via angelodsu22@gmail.com.
+neural_network: A manual implementation of a Multi-Layer Perceptron (MLP) for analyzing chess board states (FEN) and predicting outcomes.
 
-Je suis impatient de partager mes projets et d'apprendre avec la communauté GitHub !
+Kisayo: A digital reputation platform leveraging NLP to automate customer review management and business insights.
+
+Student Mission: A recruitment platform featuring a technical skill validation engine and secure payment integrations.
+
+🛠️ Technical Stack
+Languages: Python, C++20, Dart, SQL, C, JavaScript.
+
+Frameworks: Django, Flutter, SFML, Scikit-Learn, NumPy.
+
+Tools: Docker, Git, CMake, PostgreSQL, Webhooks, Linux.
+
+💬 Let's Connect
+I am always open to discussing system architecture, AI research, or potential collaborations.
+
+Email: angelodsu22@gmail.com
+
+LinkedIn: [Your LinkedIn Link Here]
+
+Current Focus: Preparing for a Master’s in AI & Cloud Computing (Targeting South Korea 🇰🇷).
