@@ -13,15 +13,6 @@
 
 </div>
 
-### 📊 GitHub Activity & Contributions
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=dange-marie&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats de Ange-Marie" height="180" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dange-marie&layout=compact&theme=tokyonight&count_private=true&hide_border=true&langs_count=6" alt="Top Langages de Ange-Marie" height="180" />
-
-</div>
-
 ### 🚀 Expertise & Core Interests
 
 - **Intelligence Artificielle 🤖**
