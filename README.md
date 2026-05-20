@@ -13,6 +13,17 @@
 
 </div>
 
+</div>
+
+### 📊 GitHub Activity & Contributions
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dange-marie&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats de Ange-Marie" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dange-marie&theme=tokyonight&hide_border=true" alt="GitHub Streak de Ange-Marie" height="180" />
+
+</div>
+
 ### 🚀 Expertise & Core Interests
 
 - **Intelligence Artificielle 🤖**
