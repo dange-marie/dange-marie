@@ -52,6 +52,6 @@
 
 ### 💬 Let's Connect
 
-- 🔭 **Current Focus:** Preparing for a Master’s in AI & Cloud Computing (Targeting **South Korea 🇰🇷**).
+- 🔭 **Current Focus:** Preparing for a Master’s in AI & Cloud Computing (Targeting **Japan 🇯🇵**).
 - 💬 **Ask me about:** System architecture, C++ optimization, or AI math.
 - 📫 **How to reach me:** [angelodsu22@gmail.com](mailto:angelodsu22@gmail.com)
